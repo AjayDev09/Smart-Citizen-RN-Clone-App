@@ -1,0 +1,101 @@
+{
+  "project_info": {
+    "project_number": "874633988498",
+    "firebase_url": "https://smart-citizen-df2b4-default-rtdb.firebaseio.com",
+    "project_id": "smart-citizen-df2b4",
+    "storage_bucket": "smart-citizen-df2b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874633988498:android:2f7ee8222a759b8a8d194b",
+        "android_client_info": {
+          "package_name": "com.smartcitizen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "874633988498-lgol2fq287cn548mrden8h0dlmghujqv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smartcitizen",
+            "certificate_hash": "e02c4cc3b370237d08f10e5c7b70c12cb0380763"
+          }
+        },
+        {
+          "client_id": "874633988498-kflm6gghtn4p74620vevdmafr45ssasv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm6_RIQKHrfDor3T2Pg5j-3_c-nK1aONE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "874633988498-kflm6gghtn4p74620vevdmafr45ssasv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "874633988498-3tlvav20vufbip2896d7gbhv4mjf94bc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.smartcitizen",
+                "app_store_id": "1658696488"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874633988498:android:66c90db97dbf88f68d194b",
+        "android_client_info": {
+          "package_name": "com.toshavhaham"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "874633988498-ohplcjppf8penffk563uh5eir8ss2ofo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.toshavhaham",
+            "certificate_hash": "e02c4cc3b370237d08f10e5c7b70c12cb0380763"
+          }
+        },
+        {
+          "client_id": "874633988498-kflm6gghtn4p74620vevdmafr45ssasv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm6_RIQKHrfDor3T2Pg5j-3_c-nK1aONE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "874633988498-kflm6gghtn4p74620vevdmafr45ssasv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "874633988498-3tlvav20vufbip2896d7gbhv4mjf94bc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.smartcitizen",
+                "app_store_id": "1658696488"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
