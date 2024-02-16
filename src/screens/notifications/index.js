@@ -353,7 +353,7 @@ const styles = StyleSheet.create({
         alignItems: 'center',
         padding: hp(1),
         borderRadius: 5,
-        backgroundColor: "#9bbbdf",
+        backgroundColor: COLORS.cardBackgroundColor,
     },
     loading: {
         position: 'absolute',

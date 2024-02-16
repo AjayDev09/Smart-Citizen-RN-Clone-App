@@ -178,7 +178,7 @@ const styles = StyleSheet.create({
         paddingVertical: 5,
         paddingHorizontal: 5,
         // alignItems: 'center',
-        backgroundColor: '#9cb2cc',
+        backgroundColor:  COLORS.cardBackgroundColor,
         borderRadius: 10,
         marginLeft: wp(1),
         marginRight: wp(1),

@@ -182,7 +182,7 @@ export const styles = StyleSheet.create({
         alignItems: "center",
         borderRadius: 5,
         paddingHorizontal: 10,
-        backgroundColor: '#9cb2cc',
+        backgroundColor:  COLORS.cardBackgroundColor,
         // height: 80,
         marginBottom: 10,
         marginHorizontal: Platform. OS === 'ios'? 8: 8

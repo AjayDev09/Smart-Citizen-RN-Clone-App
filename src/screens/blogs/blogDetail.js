@@ -882,7 +882,7 @@ const styles = StyleSheet.create({
         paddingVertical: 5,
         paddingHorizontal: 5,
         alignItems: 'center',
-        backgroundColor: '#9cb2cc',
+        backgroundColor: COLORS.cardBackgroundColor,
         borderRadius: 10,
         marginHorizontal: 5,
         marginTop: 10

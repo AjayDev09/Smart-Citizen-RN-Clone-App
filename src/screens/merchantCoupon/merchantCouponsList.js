@@ -403,7 +403,7 @@ const styles = StyleSheet.create({
         paddingVertical: wp(1),
         paddingHorizontal: wp(1),
         // alignItems: 'center',
-        backgroundColor: '#9cb2cc',
+        backgroundColor:COLORS.backgroundColor,
         borderRadius: 10,
         marginLeft: wp(1),
         marginRight: wp(1),

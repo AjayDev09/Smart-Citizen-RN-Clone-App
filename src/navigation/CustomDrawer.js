@@ -104,7 +104,7 @@ const CustomDrawer = (props) => {
       <DrawerContentScrollView {...props} contentContainerStyle={{ backgroundColor: '#fff', padding: 0 }}>
         <ImageBackground
           style={{
-            margin: wp(2), backgroundColor: '#3058cb', height: hp(10), alignItems: 'center',
+            margin: wp(2), backgroundColor: COLORS.primary, height: hp(10), alignItems: 'center',
             justifyContent: 'center'
           }}
         >
